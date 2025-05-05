@@ -1,5 +1,4 @@
 
----
 
 # 📚 Sanskrit Document Harvester
 

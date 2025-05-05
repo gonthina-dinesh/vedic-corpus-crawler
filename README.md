@@ -104,16 +104,4 @@ sanskrit-doc-harvester/
 └── README.md
 ```
 
----
-
-## 🧪 Test the Pipeline (Optional)
-
-To check if everything works before a full run:
-
-```bash
-python test_pipeline.py
-```
-
----
-
 
